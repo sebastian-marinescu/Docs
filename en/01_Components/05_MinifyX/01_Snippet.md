@@ -1,4 +1,4 @@
-Automate comprassion and chaching of scrips and styles on the site.
+Automate compression and caching of scripts and styles on the site.
 
 ## Parameters
 Name			| Description
@@ -10,7 +10,7 @@ Name			| Description
 **&forceUpdate**	| disable the check of file updating and every time generate new scripts and styles.
 **&jsFilename**		| basic name for ready JS file.
 **&jsPlaceholder**	| name of placeholder javascript. It is used if **&registerJs=\`placeholder\`**
-**&jsSources**		| list of JS files for handling. «\*.js» и «\*.coffee» can be indicated.
+**&jsSources**		| list of JS files for handling. «\*.js» and «\*.coffee» can be indicated.
 **&minifyCss**		| initiate CSS modification?
 **&minifyJs**		| initiate JS modification?
 **&registerCss**	| connection of css: can be saved in placeholder «placeholder» or activated in tag <head\> - «default».
